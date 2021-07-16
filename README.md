@@ -1,14 +1,3 @@
 # Webpack Starter
 
-Este es el proyecto inicial para crear aplicaciones utilicando webpack.
-
-### Notas:
-Recuerden reconstruis los módulos de Node
-```
-npm install
-```
-
-Y para construir el build, recuerden
-```
-npm run build
-```
+Esta es una agenda creada con javascript y usando webpack. Es capaz de guardar los registros aun al cerrar la pagina, se pueden chequear los completados y los pendientes y borrar los completados
